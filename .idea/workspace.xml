@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8f8f0b-32f0-42d9-a833-f6a6847ac8d9" name="Changes" comment="starting visualization project from Python crash course book. ch. 15" />
+    <list default="true" id="4f8f8f0b-32f0-42d9-a833-f6a6847ac8d9" name="Changes" comment="starting visualization project from Python crash course book. ch. 15">
+      <change afterPath="$PROJECT_DIR$/algorithms/Алгоритмы_для_решения_задач/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/woman_man.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualization/mpl_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization/mpl_squares.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2qOB8TKrO4GEnlTg5yRYqW9JN54" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.mpl_squares.executor": "Run",
+    "Python.woman_man.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -40,6 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -60,6 +67,28 @@
       <option name="presentableId" value="Default" />
       <updated>1734523581506</updated>
       <workItem from="1734523588841" duration="1509000" />
+      <workItem from="1734634406830" duration="1056000" />
+      <workItem from="1734709036210" duration="2675000" />
+      <workItem from="1734980155836" duration="1301000" />
+      <workItem from="1735026111968" duration="443000" />
+      <workItem from="1735198092134" duration="767000" />
+      <workItem from="1736078898579" duration="243000" />
+      <workItem from="1736248781715" duration="593000" />
+      <workItem from="1736792764654" duration="594000" />
+      <workItem from="1736836394780" duration="749000" />
+      <workItem from="1736938703714" duration="594000" />
+      <workItem from="1737217047085" duration="666000" />
+      <workItem from="1737744990274" duration="1862000" />
+      <workItem from="1737959545402" duration="731000" />
+      <workItem from="1738589876359" duration="2341000" />
+      <workItem from="1738686977346" duration="594000" />
+      <workItem from="1738908209909" duration="2808000" />
+      <workItem from="1738942393061" duration="596000" />
+      <workItem from="1739171898767" duration="907000" />
+      <workItem from="1739373348046" duration="6029000" />
+      <workItem from="1739458060275" duration="2256000" />
+      <workItem from="1739546802920" duration="592000" />
+      <workItem from="1739871852055" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="starting visualization project from Python crash course book. ch. 15">
       <option name="closed" value="true" />
@@ -88,6 +117,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="starting visualization project from Python crash course book. ch. 15" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PCC_Projects$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1734524391797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization" />
+    <SUITE FILE_PATH="coverage/PCC_Projects$woman_man.coverage" NAME="woman_man Coverage Results" MODIFIED="1739392587322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/PCC_Projects$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1734980261027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization" />
   </component>
 </project>

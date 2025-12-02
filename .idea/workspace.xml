@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8f8f0b-32f0-42d9-a833-f6a6847ac8d9" name="Changes" comment="starting visualization project from Python crash course book. ch. 15">
-      <change afterPath="$PROJECT_DIR$/algorithms/Алгоритмы_для_решения_задач/about.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/woman_man.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/mazegenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/pathfinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vis_again_01122025/worsds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vizualizacia_dannih/simple_plot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Visualization/mpl_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization/mpl_squares.py" afterDir="false" />
     </list>
@@ -37,8 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1week1task.executor": "Run",
+    "Python.mazegenerator.executor": "Run",
     "Python.mpl_squares.executor": "Run",
+    "Python.pathfinder.executor": "Run",
     "Python.woman_man.executor": "Run",
+    "Python.worsds.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -46,7 +52,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,7 +94,36 @@
       <workItem from="1739373348046" duration="6029000" />
       <workItem from="1739458060275" duration="2256000" />
       <workItem from="1739546802920" duration="592000" />
-      <workItem from="1739871852055" duration="611000" />
+      <workItem from="1739871852055" duration="836000" />
+      <workItem from="1739878322552" duration="505000" />
+      <workItem from="1740562548601" duration="1185000" />
+      <workItem from="1740757173094" duration="44000" />
+      <workItem from="1741177721064" duration="595000" />
+      <workItem from="1741709167145" duration="20000" />
+      <workItem from="1741760764234" duration="15000" />
+      <workItem from="1741810370784" duration="21000" />
+      <workItem from="1741854850206" duration="608000" />
+      <workItem from="1741964039274" duration="2123000" />
+      <workItem from="1742283631096" duration="2670000" />
+      <workItem from="1743768749925" duration="770000" />
+      <workItem from="1743956986374" duration="5000" />
+      <workItem from="1743963398064" duration="28000" />
+      <workItem from="1744142216228" duration="17000" />
+      <workItem from="1744142333690" duration="120000" />
+      <workItem from="1749629351788" duration="7317000" />
+      <workItem from="1749734322131" duration="904000" />
+      <workItem from="1749735253092" duration="1373000" />
+      <workItem from="1749821452122" duration="593000" />
+      <workItem from="1750184997973" duration="1338000" />
+      <workItem from="1750323978375" duration="1333000" />
+      <workItem from="1751007267902" duration="3019000" />
+      <workItem from="1751298592957" duration="321000" />
+      <workItem from="1751557080084" duration="18000" />
+      <workItem from="1762166627679" duration="15404000" />
+      <workItem from="1762772391884" duration="4692000" />
+      <workItem from="1763291136200" duration="3333000" />
+      <workItem from="1763483531715" duration="1938000" />
+      <workItem from="1764432583419" duration="4126000" />
     </task>
     <task id="LOCAL-00001" summary="starting visualization project from Python crash course book. ch. 15">
       <option name="closed" value="true" />
@@ -106,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734524873016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="starting visualization project from Python crash course book. ch. 15">
+      <option name="closed" value="true" />
+      <created>1739872558494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739872558494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +160,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="starting visualization project from Python crash course book. ch. 15" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PCC_Projects$pathfinder.coverage" NAME="pathfinder Coverage Results" MODIFIED="1749725238918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/PCC_Projects$worsds.coverage" NAME="worsds Coverage Results" MODIFIED="1764616352173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vis_again_01122025" />
     <SUITE FILE_PATH="coverage/PCC_Projects$woman_man.coverage" NAME="woman_man Coverage Results" MODIFIED="1739392587322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
-    <SUITE FILE_PATH="coverage/PCC_Projects$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1734980261027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization" />
+    <SUITE FILE_PATH="coverage/PCC_Projects$mazegenerator.coverage" NAME="mazegenerator Coverage Results" MODIFIED="1763303094872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/PCC_Projects$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1762172534929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization" />
   </component>
 </project>
